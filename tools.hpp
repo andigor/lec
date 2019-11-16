@@ -3,5 +3,7 @@
 
 #include "vector_pretty.hpp"
 
+template <class ... T>
+struct type_name;
 #endif
 
